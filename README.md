@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Rajesh Sudam — AI / Software / Data Portfolio
 
 A dark, tech-focused one-page portfolio for GitHub Pages. The site is positioned as a developer/AI studio rather than a traditional CV and includes a dedicated freelance services section.
@@ -24,4 +23,3 @@ A dark, tech-focused one-page portfolio for GitHub Pages. The site is positioned
 Before publishing, replace the placeholder LinkedIn, GitHub, and Medium URLs in `index.html` with your real profile links. You can also expand the freelance section with specific client/project examples when ready.
 =======
 # portfolio
->>>>>>> 9ac1db181ddd0dd1a201a1cf52d919d127171cfe
